@@ -18,6 +18,7 @@ __Manav Rachna University Hacktober Fest 2020__
 - Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like and others they've just discovered.
 - __Our Main Hosting Git is__
 [Project MRU💻🏡](https://github.com/minnonymous/ProjectMRU)
+
 # ✨No contribution is too small✨
 
 ## Steps and Rewards🎁
@@ -118,8 +119,6 @@ print('Hello, python!')
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_minnonymous.py`
-
-## Created sub-folders to upload/commit your code in any language or ideas.🗂️
 
 ## Standards💻
 In line with Hacktoberfest value #2 (Quantity is fun, quality is key), we have provided examples of pull requests that we consider to be low-quality contributions (which we discourage).
