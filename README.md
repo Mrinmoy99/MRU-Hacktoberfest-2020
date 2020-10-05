@@ -38,7 +38,8 @@ Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
 * Add a profile page to the `profiles` directory
-* Create a simple "Hello, World" script in a language of your choice
+* Add your innovative logo for any existing organisations or any other to the `Logo` directory
+* Add your beautiful UI/UX design for existing apps, websites or other wearables to the `UI/UX` directory
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
