@@ -1,5 +1,6 @@
-# Project MRU💻🏡
+# [Project MRU💻🏡](https://github.com/minnonymous/ProjectMRU)
 __Manav Rachna University Hacktober Fest 2020__
+Official Repo: https://github.com/minnonymous/ProjectMRU
 
 ![3](https://user-images.githubusercontent.com/38182673/94948866-a9fb7c80-04fd-11eb-8b5c-3bca46cc1f5b.png)
 
@@ -16,8 +17,8 @@ __Manav Rachna University Hacktober Fest 2020__
 ## About💬
 - __Manav Rachna University__ hosting an online event __Project MRU (Hacktoberfest 2020)__ brought to you by DigitalOcean in partnership with Dev & Intel — is a month-long celebration of open-source software.
 - Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like and others they've just discovered.
-- __Our Main Hosting Git is__ https://github.com/minnonymous/ProjectMRU
-
+- __Our Main Hosting Git is__
+[Project MRU💻🏡](https://github.com/minnonymous/ProjectMRU)
 # ✨No contribution is too small✨
 
 ## Steps and Rewards🎁
