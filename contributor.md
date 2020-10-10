@@ -19,3 +19,9 @@ _Dont change until this_
 - Place: India
 - Bio: security analyst
 - GitHub: minnonymous(https://github.com/minnonymous/)
+
+##### Name: RishabhDhiman99(https://github.com/RishabhDhiman99/)
+
+- Place: Faridabad, India
+- Bio: Aspiring data scientist $$ ML & AI Enthusiast $$ Open
+- GitHub: RishabhDhiman99(https://github.com/RishabhDhiman99/)
