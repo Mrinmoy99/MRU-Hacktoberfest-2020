@@ -1,9 +1,9 @@
 __USE THIS__
-##### Name: [Abhyuday Gupta](https://github.com/abhyuday12)
+##### Name: [YOUR NAME](GitHub link)
 
-- Place: Firozabad,india
-- Bio: Aspirring Security analyst
-- GitHub: abhyuday12(https://github.com/abhyuday12)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
 
 _Dont change until this_
 
@@ -25,3 +25,9 @@ _Dont change until this_
 - Place: Faridabad, India
 - Bio: Aspiring data scientist $$ ML & AI Enthusiast $$ Open
 - GitHub: RishabhDhiman99(https://github.com/RishabhDhiman99/)
+
+##### Name: [Abhyuday Gupta](https://github.com/abhyuday12)
+
+- Place: Firozabad,india
+- Bio: Aspirring Security analyst
+- GitHub: abhyuday12(https://github.com/abhyuday12)
