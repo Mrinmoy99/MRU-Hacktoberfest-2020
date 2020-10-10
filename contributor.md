@@ -1,9 +1,9 @@
 __USE THIS__
-##### Name: [YOUR NAME](GitHub link)
+##### Name: [Abhyuday Gupta](https://github.com/abhyuday12)
 
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- Place: Firozabad,india
+- Bio: Aspirring Security analyst
+- GitHub: abhyuday12(https://github.com/abhyuday12)
 
 _Dont change until this_
 
